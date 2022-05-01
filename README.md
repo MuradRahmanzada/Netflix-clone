@@ -7,7 +7,7 @@
 <p><font size="3">
   This is a clone of Netflix website built using <strong><em>React.JS</em></strong> as a Front-end. It's not a replica, and it doesn't have all the features of Netflix website. it's a similar version of Netflix with my own design touch, showing my abilities in React.JS to build something advancedlike Netflix. It contains the home page, sign-in page, sign-up page, browse page.
   <br><br> 
-  <strong><em>Take a look at the live version here:</em></strong> :octocat: :heart_eyes:
+  <strong><em>Take a look at the live version here:</em></strong> https://netflix-clonee01.netlify.app/ :octocat: :heart_eyes:
 </p>
 
 ## Table of Contents
@@ -22,9 +22,6 @@
   - [Browse Page](#browse-page)
   ![netflix-main](https://user-images.githubusercontent.com/97960285/166142120-c24384ec-5d77-42b3-a440-65a16d50fd71.png)
   ![netflix-main2](https://user-images.githubusercontent.com/97960285/166142126-5bbb378b-3232-49f3-9a6e-bcbfb715ab00.png)
-
-
-- [Live Demo](#live-demo)
   
   # Getting Started with Create React App
 
