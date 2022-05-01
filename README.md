@@ -14,9 +14,16 @@
 
 - [Project Walk-Through](#project-walk-through)
   - [Home Page](#home-page)
+  ![netflix-getStarted](https://user-images.githubusercontent.com/97960285/166142097-1a53b766-80c3-47a3-87e6-19b319891f5e.png)
+
   - [Sign-in Page](#sign-in-page)
-  - [Sign-up Page](#sign-up-page)
+  ![netflix-Login](https://user-images.githubusercontent.com/97960285/166142102-879d68ad-15dc-4093-82b7-57c8fab9988b.png)
+
   - [Browse Page](#browse-page)
+  ![netflix-main](https://user-images.githubusercontent.com/97960285/166142120-c24384ec-5d77-42b3-a440-65a16d50fd71.png)
+  ![netflix-main2](https://user-images.githubusercontent.com/97960285/166142126-5bbb378b-3232-49f3-9a6e-bcbfb715ab00.png)
+
+
 - [Live Demo](#live-demo)
   
   # Getting Started with Create React App
