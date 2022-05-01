@@ -23,6 +23,16 @@
   ![netflix-main](https://user-images.githubusercontent.com/97960285/166142120-c24384ec-5d77-42b3-a440-65a16d50fd71.png)
   ![netflix-main2](https://user-images.githubusercontent.com/97960285/166142126-5bbb378b-3232-49f3-9a6e-bcbfb715ab00.png)
   
+## Technologies
+Basically, this project was developed based on the following technologies:
+
+<p align="center">
+ <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-reactjs.png?raw=true" alt="React JS" width="60"></a>
+  &nbsp&nbsp
+<a href="https://www.themoviedb.org/" target="_blank"><img src="https://github.com/mcosta21/netflix-clone-reactjs/blob/master/docs/icon-tmdb.png?raw=true" alt="TMDB" width="60"></a>
+  &nbsp&nbsp
+</p>
+  
   # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
