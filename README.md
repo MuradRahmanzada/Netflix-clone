@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img title="Netflix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/1587px-Tesla_Motors.svg.png" alt="NETFLIX Logo" width="400" />
+  <img title="Netflix" src="https://cdn.vox-cdn.com/thumbor/Yq1Vd39jCBGpTUKHUhEx5FfxvmM=/39x0:3111x2048/1200x800/filters:focal(39x0:3111x2048)/cdn.vox-cdn.com/uploads/chorus_image/image/49901753/netflixlogo.0.0.png" alt="NETFLIX_Logo" width="400" />
   <br>
-  Tesla Clone Built Using React.JS & Firebase
+  Netflix Clone Built Using React.JS & Firebase
 </h1>
 
 <p><font size="3">
