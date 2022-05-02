@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img title="Netflix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/1587px-Tesla_Motors.svg.png" alt="NETFLIX Logo" width="350" />
+  <img title="Netflix" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tesla_Motors.svg/1587px-Tesla_Motors.svg.png" alt="NETFLIX Logo" width="400" />
   <br>
   Tesla Clone Built Using React.JS & Firebase
 </h1>
